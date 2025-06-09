@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Por que investir em Marketing Digital? | FOM Digital Marketing</title>
+  <meta name="description" content="Entenda, em dados, como SEO, otimização de perfil, chatbots e um cronograma de conteúdo podem multiplicar resultados de negócios locais.">
+  <style>
+    :root{
+      --bg:#f7f9fc;--primary:#1A1F71;--accent:#FF6F00;--card:#fff;
+    }
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:#333;line-height:1.6;}
+    header{background:var(--primary);color:#fff;padding:2.5rem 1rem;text-align:center;}
+    h1{font-size:2rem;margin-bottom:.5rem}
+    header p{opacity:.9}
+    .wrapper{max-width:900px;margin:3rem auto;padding:0 1rem;}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:1.5rem;}
+    .card{background:var(--card);padding:1.5rem;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,.05);}
+    .card h2{color:var(--primary);font-size:1.2rem;margin-bottom:.75rem;}
+    .card p{margin-bottom:.5rem;}
+    .cta{margin:3rem 0;text-align:center;}
+    .cta a{background:var(--accent);color:#fff;padding:0.9rem 2rem;border-radius:8px;text-decoration:none;font-size:1.1rem;font-weight:bold;transition:.25s;}
+    .cta a:hover{opacity:.85;transform:translateY(-2px);}
+    footer{text-align:center;font-size:.85rem;color:#666;margin:2rem 0;}
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Dados que provam o poder do marketing digital local</h1>
+    <p>Veja por que SEO, conteúdo estratégico e automação transformam resultados de qualquer comércio.</p>
+  </header>
+
+  <main class="wrapper">
+
+    <section class="grid">
+
+      <!-- SEO -->
+      <div class="card">
+        <h2>SEO Local</h2>
+        <p>🔍 93 % das experiências online começam em um motor de busca.</p>
+        <p>🏆 Negócios que aparecem na 1ª página recebem até 90 % dos cliques.</p>
+        <p>💰 Tráfego orgânico reduz em média 60 % o custo por aquisição.</p>
+      </div>
+
+      <!-- Perfil Otimizado -->
+      <div class="card">
+        <h2>Perfil Otimizado</h2>
+        <p>📱 Perfis com bio clara geram 3× mais cliques em links.</p>
+        <p>⭐ Contas com destaques organizados elevam a confiança do cliente em 45 %.</p>
+        <p>💡 Fotos de perfil consistentes aumentam o reconhecimento de marca em 23 %.</p>
+      </div>
+
+      <!-- Cronograma de Conteúdo -->
+      <div class="card">
+        <h2>Cronograma de Conteúdo</h2>
+        <p>📆 Marcas que publicam 3 × por semana têm 2 × mais engajamento.</p>
+        <p>📈 Empresas que mantêm consistência por 6 meses crescem 3.5 × em tráfego.</p>
+        <p>🤝 Conteúdo educativo gera 70 % mais leads qualificados.</p>
+      </div>
+
+      <!-- Chatbot / Automação -->
+      <div class="card">
+        <h2>Chatbot &amp; Automação</h2>
+        <p>⚡ Resposta em <5 min eleva conversões em até 21 %.</p>
+        <p>🤖 Chatbots economizam 30 % do tempo de atendimento.</p>
+        <p>📊 Empresas que usam automação veem 40 % mais leads no funil.</p>
+      </div>
+
+    </section>
+
+    <div class="cta">
+      <p style="margin-bottom:1rem;font-size:1.2rem;">Pronto para aplicar essas estratégias no seu negócio?</p>
+      <a href="https://fomdgtlmkt4.github.io/landing-page/">Quero minha solução completa</a>
+    </div>
+
+  </main>
+
+  <footer>
+    © 2025 FOM Digital Marketing — Resultados que se medem em vendas.
+  </footer>
+
+</body>
+</html>
